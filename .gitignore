@@ -1,0 +1,4 @@
+# .gitignore 文件内容
+# 排除 QEMU 目录和压缩包
+/qemu-5.2.0/
+qemu-5.2.0.tar
